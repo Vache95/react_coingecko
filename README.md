@@ -1,8 +1,13 @@
-# React + Vite
+# React CoinGecko 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In the project directory, you can run:
 
-Currently, two official plugins are available:
+```sh
+yarn install
+```
+```sh
+yarn run dev
+```
+## Deploy Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+`CoinGecko` : <https://endearing-faloodeh-b5a032.netlify.app/>
